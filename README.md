@@ -1,25 +1,22 @@
-CSSI Day 1 - Olympic Rings
+Google CSSI Final Project: Mask Up, Vax In 
 =================
-
-Your Project
-------------
 
 ### ← README.md
 
-That's this file, where you can tell people what your cool website does and how you built it.
+Created a COVID frogger game with Pokemon inspired battle scenes mixed in! Special thanks to sahiti.hibane and guzelabdubek for making this project possible.
 
 ### ← index.html
 
-Where you'll write the content of your website. 
+Basic html for importing the libraries used.
 
 ### ← style.css
 
-CSS files add styling rules to your content.
+Styling was done in js.
 
 ### ← script.js
 
-If you're feeling fancy you can add interactivity to your site with JavaScript.
+Used the p5.js library to create a socially distancing frogger game mashed up with Pokemon-esque battles between the player's b-cells and COVID-19.
 
 ### ← assets
 
-Drag in `assets`, like images or music, to add them to your project
+Icons for the maps and the various sprites used!
