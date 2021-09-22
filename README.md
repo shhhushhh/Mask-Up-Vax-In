@@ -4,6 +4,7 @@ Google CSSI Final Project: Mask Up, Vax In
 ### ← README.md
 
 Created a COVID frogger game with Pokemon inspired battle scenes mixed in! Special thanks to sahiti.hibane and guzelabdubek for making this project possible.
+Click on this link to try the game out: https://cssi-finalproj.glitch.me!
 
 ### ← index.html
 
