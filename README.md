@@ -3,7 +3,8 @@ Google CSSI Final Project: Mask Up, Vax In
 
 ### ← README.md
 
-Created a COVID frogger game with Pokemon inspired battle scenes mixed in! Special thanks to sahiti.hibane and guzelabdubek for making this project possible.
+Created a COVID-19 social distancing frogger game with Pokemon-esque battles between the player's immune system and the virus! The goal of the game is to social distance until your vaccination appointment time. The game's purpose is to hopefully clear up some misinformation regarding the vaccine and the act of social distancing in a fun and engaging manner. Special thanks to sahiti.hibane and guzelabdubek for making this project possible.
+
 Click on this link to try the game out: https://cssi-finalproj.glitch.me!
 
 ### ← index.html
